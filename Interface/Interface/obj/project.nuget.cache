@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xSeARPCG8SiaZSWtfwBrZZjtDHGdtrx7UT/YIAn7JKt2LhI0SmmJzOqdg9btV0Hr3mP25QsOXyta1kU/TTcGnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Islam\\source\\repos\\Interface\\Interface\\Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Islam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
