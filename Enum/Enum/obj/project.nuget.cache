@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YY9Khg4F4FhQKZmsQYABs1WRDyzHMlxK9l4yPsGFpPnvcNRcPw7OuQwarSkDVW+ik+qq1tmMiJq4Ebs2cNWq4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Islam\\Desktop\\FullStack\\DotNetNewBegin\\C#\\Enum\\Enum\\Enum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Islam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
