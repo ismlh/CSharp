@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yhr35XJc9eKndnJkrbL/8fyAkyVti/EI0P2l66WhNtCLJ8QID9A0ng8yNXoJNyoDjQ3xnJW9c3lpCfAnR37Bpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Islam\\Desktop\\FullStack\\DotNetNewBegin\\C#\\Delegate\\Delegate\\Delegate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Islam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

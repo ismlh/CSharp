@@ -1,0 +1,16 @@
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.exe
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.deps.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\bin\Debug\net5.0\ref\Delegate.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.pdb
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.AssemblyReference.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\obj\Debug\net5.0\ref\Delegate.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.pdb
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache
