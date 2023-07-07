@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zpb93EZNyz3IY+fQUGW9JWVw0cku30DHIcbQPhpMN+Cnf2z7BFF8aX7rAVO1mwbbwSPa0awLegnM85zkD+W/ZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Islam\\Desktop\\FullStack\\DotNetNewBegin\\C#\\E12\\E12\\Indexer\\Indexer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Islam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
