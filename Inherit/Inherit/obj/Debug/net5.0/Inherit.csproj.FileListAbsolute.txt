@@ -1,0 +1,16 @@
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\bin\Debug\net5.0\Inherit.exe
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\bin\Debug\net5.0\Inherit.deps.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\bin\Debug\net5.0\Inherit.runtimeconfig.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\bin\Debug\net5.0\Inherit.runtimeconfig.dev.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\bin\Debug\net5.0\Inherit.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\bin\Debug\net5.0\ref\Inherit.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\bin\Debug\net5.0\Inherit.pdb
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\obj\Debug\net5.0\Inherit.csproj.AssemblyReference.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\obj\Debug\net5.0\Inherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\obj\Debug\net5.0\Inherit.AssemblyInfoInputs.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\obj\Debug\net5.0\Inherit.AssemblyInfo.cs
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\obj\Debug\net5.0\Inherit.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\obj\Debug\net5.0\Inherit.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\obj\Debug\net5.0\ref\Inherit.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\obj\Debug\net5.0\Inherit.pdb
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Inherit\Inherit\obj\Debug\net5.0\Inherit.genruntimeconfig.cache
