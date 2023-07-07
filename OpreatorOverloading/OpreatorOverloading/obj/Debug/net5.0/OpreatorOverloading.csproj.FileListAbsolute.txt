@@ -1,0 +1,16 @@
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\bin\Debug\net5.0\OpreatorOverloading.exe
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\bin\Debug\net5.0\OpreatorOverloading.deps.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\bin\Debug\net5.0\OpreatorOverloading.runtimeconfig.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\bin\Debug\net5.0\OpreatorOverloading.runtimeconfig.dev.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\bin\Debug\net5.0\OpreatorOverloading.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\bin\Debug\net5.0\ref\OpreatorOverloading.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\bin\Debug\net5.0\OpreatorOverloading.pdb
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\obj\Debug\net5.0\OpreatorOverloading.csproj.AssemblyReference.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\obj\Debug\net5.0\OpreatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\obj\Debug\net5.0\OpreatorOverloading.AssemblyInfoInputs.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\obj\Debug\net5.0\OpreatorOverloading.AssemblyInfo.cs
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\obj\Debug\net5.0\OpreatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\obj\Debug\net5.0\OpreatorOverloading.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\obj\Debug\net5.0\ref\OpreatorOverloading.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\obj\Debug\net5.0\OpreatorOverloading.pdb
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\OpreatorOverloading\OpreatorOverloading\obj\Debug\net5.0\OpreatorOverloading.genruntimeconfig.cache
