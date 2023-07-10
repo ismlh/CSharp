@@ -1,0 +1,16 @@
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\bin\Debug\net5.0\bulit_In_Delegates.exe
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\bin\Debug\net5.0\bulit_In_Delegates.deps.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\bin\Debug\net5.0\bulit_In_Delegates.runtimeconfig.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\bin\Debug\net5.0\bulit_In_Delegates.runtimeconfig.dev.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\bin\Debug\net5.0\bulit_In_Delegates.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\bin\Debug\net5.0\ref\bulit_In_Delegates.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\bin\Debug\net5.0\bulit_In_Delegates.pdb
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\obj\Debug\net5.0\bulit_In_Delegates.csproj.AssemblyReference.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\obj\Debug\net5.0\bulit_In_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\obj\Debug\net5.0\bulit_In_Delegates.AssemblyInfoInputs.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\obj\Debug\net5.0\bulit_In_Delegates.AssemblyInfo.cs
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\obj\Debug\net5.0\bulit_In_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\obj\Debug\net5.0\bulit_In_Delegates.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\obj\Debug\net5.0\ref\bulit_In_Delegates.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\obj\Debug\net5.0\bulit_In_Delegates.pdb
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\bulit_In_Delegates\obj\Debug\net5.0\bulit_In_Delegates.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\bin\Debug\net5.0\Generic_Delegates.exe
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\bin\Debug\net5.0\Generic_Delegates.deps.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\bin\Debug\net5.0\Generic_Delegates.runtimeconfig.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\bin\Debug\net5.0\Generic_Delegates.runtimeconfig.dev.json
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\bin\Debug\net5.0\Generic_Delegates.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\bin\Debug\net5.0\ref\Generic_Delegates.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\bin\Debug\net5.0\Generic_Delegates.pdb
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\obj\Debug\net5.0\Generic_Delegates.csproj.AssemblyReference.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\obj\Debug\net5.0\Generic_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\obj\Debug\net5.0\Generic_Delegates.AssemblyInfoInputs.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\obj\Debug\net5.0\Generic_Delegates.AssemblyInfo.cs
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\obj\Debug\net5.0\Generic_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\obj\Debug\net5.0\Generic_Delegates.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\obj\Debug\net5.0\ref\Generic_Delegates.dll
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\obj\Debug\net5.0\Generic_Delegates.pdb
+C:\Users\Islam\Desktop\FullStack\DotNetNewBegin\C#\Generic_Delegates\Generic_Delegates\obj\Debug\net5.0\Generic_Delegates.genruntimeconfig.cache

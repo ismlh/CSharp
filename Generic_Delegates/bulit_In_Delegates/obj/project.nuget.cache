@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYxmAJLkmtzMh/r8PL245czXpVtxwKrroKE+qyv1V0nFtthtKBlJyldB2s0CxERDmmoQKIs9A7h0rRC8uK5Qsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Islam\\Desktop\\FullStack\\DotNetNewBegin\\C#\\Generic_Delegates\\bulit_In_Delegates\\bulit_In_Delegates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Islam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
