@@ -1,0 +1,16 @@
+C:\Users\Islam\source\repos\Collections\Litts\bin\Debug\net5.0\Litts.exe
+C:\Users\Islam\source\repos\Collections\Litts\bin\Debug\net5.0\Litts.deps.json
+C:\Users\Islam\source\repos\Collections\Litts\bin\Debug\net5.0\Litts.runtimeconfig.json
+C:\Users\Islam\source\repos\Collections\Litts\bin\Debug\net5.0\Litts.runtimeconfig.dev.json
+C:\Users\Islam\source\repos\Collections\Litts\bin\Debug\net5.0\Litts.dll
+C:\Users\Islam\source\repos\Collections\Litts\bin\Debug\net5.0\ref\Litts.dll
+C:\Users\Islam\source\repos\Collections\Litts\bin\Debug\net5.0\Litts.pdb
+C:\Users\Islam\source\repos\Collections\Litts\obj\Debug\net5.0\Litts.csproj.AssemblyReference.cache
+C:\Users\Islam\source\repos\Collections\Litts\obj\Debug\net5.0\Litts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam\source\repos\Collections\Litts\obj\Debug\net5.0\Litts.AssemblyInfoInputs.cache
+C:\Users\Islam\source\repos\Collections\Litts\obj\Debug\net5.0\Litts.AssemblyInfo.cs
+C:\Users\Islam\source\repos\Collections\Litts\obj\Debug\net5.0\Litts.csproj.CoreCompileInputs.cache
+C:\Users\Islam\source\repos\Collections\Litts\obj\Debug\net5.0\Litts.dll
+C:\Users\Islam\source\repos\Collections\Litts\obj\Debug\net5.0\ref\Litts.dll
+C:\Users\Islam\source\repos\Collections\Litts\obj\Debug\net5.0\Litts.pdb
+C:\Users\Islam\source\repos\Collections\Litts\obj\Debug\net5.0\Litts.genruntimeconfig.cache

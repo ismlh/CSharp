@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gyvbcINLw0s3T3PH3qJfH2Lm6Pehkd6KMpnkgAHNp0NkTOQwYE2dwisN+k/iojh6dLwhTTZ3N0KprtJhvM/w0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Islam\\source\\repos\\Collections\\Litts\\lists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Islam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
